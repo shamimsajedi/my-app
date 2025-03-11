@@ -209,7 +209,7 @@ const formattedTime = now.format("HH:mm:ss");
               </svg>
             </div>
             <div className="w-[100px]"></div>
-            <div className="flex items-center justify-center space-x-4 ">
+            <div className="flex items-center justify-center space-x-4 text-white">
               <div className="flex flex-col justify-center items-center space-y-1 ">
                 <p className="font-bold bg-white/20 flex items-center justify-center w-10 h-10 text-xl rounded-sm">
                   {days}
